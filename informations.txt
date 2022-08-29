@@ -1,0 +1,5 @@
+## Informações:
+
+- O servidor frontend roda na porta 3000
+- O servidor backend roda na porta 3001
+- O banco de dados roda na porta 3306

@@ -1,0 +1,19 @@
+## Tecnologias utilizadas para o desenvolvimento
+
+FRONTEND:
+- ReactJs
+
+Ferramentas de estilização:
+- StyledComponents
+- ChakraUI
+- React Icons
+- Bootstrap
+
+BACKEND:
+- NodeJs
+- MSC
+- Docker
+- MySQL
+- Express
+
+
